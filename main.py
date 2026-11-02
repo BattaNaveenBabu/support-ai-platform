@@ -4,7 +4,7 @@ def main():
         "subject": "Cannot log in",
         "description": "My password is not working.",
         "category": "account",
-        "status": "open",
+        "status": "closed",
     }
 
     print(f"Ticket ID: {ticket['id']}")
