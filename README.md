@@ -21,5 +21,3 @@ using Python, SQL, machine learning, and AI.
 Requires Python 3.12.
 
 Run `python main.py` from the project folder.
-
-Run `python main.py` from the project folder.
