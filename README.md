@@ -5,7 +5,8 @@ using Python, SQL, machine learning, and AI.
 
 ## Current functionality
 
-- Displays a welcome message and the developer's name.
+- Represents a sample support ticket using a Python dictionary.
+- Displays its ID, subject, description, category, and status.
 
 ## Planned features
 
@@ -18,5 +19,7 @@ using Python, SQL, machine learning, and AI.
 ## Run the application
 
 Requires Python 3.12.
+
+Run `python main.py` from the project folder.
 
 Run `python main.py` from the project folder.

@@ -1,9 +1,17 @@
 def main():
-    project_name = "Customer Support AI Platform"
-    developer_name = "Naveen"
+    ticket = {
+        "id": 1,
+        "subject": "Cannot log in",
+        "description": "My password is not working.",
+        "category": "account",
+        "status": "open",
+    }
 
-    print(f"Welcome to {project_name}!")
-    print(f"Built by {developer_name}")
+    print(f"Ticket ID: {ticket['id']}")
+    print(f"Subject: {ticket['subject']}")
+    print(f"Description: {ticket['description']}")
+    print(f"Category: {ticket['category']}")
+    print(f"Status: {ticket['status']}")
 
 
 if __name__ == "__main__":
