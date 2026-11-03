@@ -5,8 +5,10 @@ using Python, SQL, machine learning, and AI.
 
 ## Current functionality
 
-- Represents a sample support ticket using a Python dictionary.
-- Displays its ID, subject, description, category, and status.
+
+- Reads synthetic sample tickets from `data/sample_tickets.csv`.
+- Displays the total number of tickets.
+- Displays each ticket's ID, subject, description, category, and status.
 
 ## Planned features
 

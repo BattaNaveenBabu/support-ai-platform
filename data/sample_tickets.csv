@@ -1,0 +1,6 @@
+id,subject,description,category,status
+1,Cannot log in,My password is not working.,account,open
+2,Charged twice,My subscription payment appeared twice.,billing,open
+3,Update email,I need to change my email address.,account,closed
+4,Download fails,The report download stops halfway.,technical,open
+5,Invoice request,Please send my invoice.,billing,closed
